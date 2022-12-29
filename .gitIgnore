@@ -88,3 +88,12 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+.env
+.env.stg
+.env.dev
+/OnlyNipponGo/config/stg/Environment.swift
+/OnlyNipponGo/config/prd/Environment.swift
+/OnlyNipponGo/config/dev/Environment.swift
+
+

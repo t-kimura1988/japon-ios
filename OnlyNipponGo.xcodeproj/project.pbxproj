@@ -186,6 +186,7 @@
 		25BC9CD7295B3BC100136D2A /* HomeMain-PostList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BC9CD6295B3BC100136D2A /* HomeMain-PostList.swift */; };
 		25BC9CD8295B3BC100136D2A /* HomeMain-PostList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BC9CD6295B3BC100136D2A /* HomeMain-PostList.swift */; };
 		25BC9CD9295B3BC100136D2A /* HomeMain-PostList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BC9CD6295B3BC100136D2A /* HomeMain-PostList.swift */; };
+		25BC9CE3295D52FC00136D2A /* .gitIgnore in Resources */ = {isa = PBXBuildFile; fileRef = 25BC9CE2295D52FC00136D2A /* .gitIgnore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -270,6 +271,7 @@
 		25BC9CCE295ACBE100136D2A /* PostHomeListRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostHomeListRequest.swift; sourceTree = "<group>"; };
 		25BC9CD2295AF0C200136D2A /* Date+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+.swift"; sourceTree = "<group>"; };
 		25BC9CD6295B3BC100136D2A /* HomeMain-PostList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HomeMain-PostList.swift"; sourceTree = "<group>"; };
+		25BC9CE2295D52FC00136D2A /* .gitIgnore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitIgnore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -344,6 +346,7 @@
 		25226A64294C4D2700B051EF = {
 			isa = PBXGroup;
 			children = (
+				25BC9CE2295D52FC00136D2A /* .gitIgnore */,
 				25226B1C294F7AB600B051EF /* STG-OnlyNipponGo-Info.plist */,
 				25226B1B294F7A9000B051EF /* DEV-OnlyNipponGo-Info.plist */,
 				25226AC5294F60C200B051EF /* buildEnv-dev.sh */,
@@ -858,6 +861,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25BC9CE3295D52FC00136D2A /* .gitIgnore in Resources */,
 				25226AAC294F5F6700B051EF /* .env in Resources */,
 				25226AC0294F606A00B051EF /* buildEnv.sh in Resources */,
 				25226A78294C4D2800B051EF /* Preview Assets.xcassets in Resources */,
